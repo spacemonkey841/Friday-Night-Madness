@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gruntCrowd.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Grunts Bop0000" x="10" y="10" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0001" x="10" y="10" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0002" x="3020" y="10" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0003" x="3020" y="10" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0004" x="10" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0005" x="10" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0006" x="3020" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0007" x="3020" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0008" x="3020" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0009" x="3020" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0010" x="3020" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0011" x="3020" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0012" x="3020" y="1520" width="3000" height="1500"/>
+	<SubTexture name="Grunts Bop0013" x="3020" y="1520" width="3000" height="1500"/>
+</TextureAtlas>

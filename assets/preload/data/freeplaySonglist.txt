@@ -1,0 +1,5 @@
+Chicken Dance:gf:1
+Grunting:grunt:1
+Redeemer:grunt:1
+Gunshots:grunt:1
+Deez:grunt
